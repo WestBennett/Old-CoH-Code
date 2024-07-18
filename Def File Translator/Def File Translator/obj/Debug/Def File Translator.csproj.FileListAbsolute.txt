@@ -1,0 +1,19 @@
+C:\Projects\Def File Translator\Def File Translator\bin\Debug\Def File Translator.exe.config
+C:\Projects\Def File Translator\Def File Translator\bin\Debug\Def File Translator.exe
+C:\Projects\Def File Translator\Def File Translator\bin\Debug\Def File Translator.pdb
+C:\Projects\Def File Translator\Def File Translator\obj\Debug\Def File Translator.csprojAssemblyReference.cache
+C:\Projects\Def File Translator\Def File Translator\obj\Debug\Def_File_Translator.MainForm.resources
+C:\Projects\Def File Translator\Def File Translator\obj\Debug\Def_File_Translator.Properties.Resources.resources
+C:\Projects\Def File Translator\Def File Translator\obj\Debug\Def File Translator.csproj.GenerateResource.cache
+C:\Projects\Def File Translator\Def File Translator\obj\Debug\Def File Translator.exe
+C:\Projects\Def File Translator\Def File Translator\obj\Debug\Def File Translator.pdb
+C:\Projects\Def File Translator\Def File Translator\obj\Debug\Def File Translator.csproj.CopyComplete
+C:\Projects\Def File Translator\Def File Translator\bin\Debug\EPPlus.dll
+C:\Projects\Def File Translator\Def File Translator\bin\Debug\EPPlus.xml
+C:\Projects\Def File Translator\Def File Translator\bin\Debug\Def Objects.dll
+C:\Projects\Def File Translator\Def File Translator\bin\Debug\Def Objects.pdb
+C:\Projects\Def File Translator\Def File Translator\obj\Debug\Def File Translator.TrustInfo.xml
+C:\Projects\Def File Translator\Def File Translator\bin\Debug\Def File Translator.exe.manifest
+C:\Projects\Def File Translator\Def File Translator\bin\Debug\Def File Translator.application
+C:\Projects\Def File Translator\Def File Translator\obj\Debug\Def File Translator.exe.manifest
+C:\Projects\Def File Translator\Def File Translator\obj\Debug\Def File Translator.application

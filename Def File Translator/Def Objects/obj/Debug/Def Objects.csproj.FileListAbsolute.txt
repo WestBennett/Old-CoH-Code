@@ -1,0 +1,8 @@
+C:\Projects\Def File Translator\Def Objects\bin\Debug\Def Objects.dll
+C:\Projects\Def File Translator\Def Objects\bin\Debug\Def Objects.pdb
+C:\Projects\Def File Translator\Def Objects\bin\Debug\EPPlus.dll
+C:\Projects\Def File Translator\Def Objects\bin\Debug\EPPlus.xml
+C:\Projects\Def File Translator\Def Objects\obj\Debug\Def Objects.csprojAssemblyReference.cache
+C:\Projects\Def File Translator\Def Objects\obj\Debug\Def Objects.csproj.CopyComplete
+C:\Projects\Def File Translator\Def Objects\obj\Debug\Def Objects.dll
+C:\Projects\Def File Translator\Def Objects\obj\Debug\Def Objects.pdb
