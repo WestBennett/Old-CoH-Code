@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Philotic_Knights_Def_Tools", "Def Objects\Philotic_Knights_Def_Tools.csproj", "{9AFB8502-2142-4781-B1CB-595D941A6FF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Philotic_Knights_Field_Trainer_ModelController", "Field Trainer ModelController\Philotic_Knights_Field_Trainer_ModelController.csproj", "{703C732E-3E88-4CB4-98C2-69FD31FE26A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Philotic Knight's Desktop Field Trainer", "Philotic Knight's Desktop Field Trainer\Philotic Knight's Desktop Field Trainer.csproj", "{DB0C059B-954E-4532-B9D5-F5711ED8C8E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8D163835-894B-469B-9A47-175D3028030E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PKs_C_Web_Field_Trainer", "PKs_C_Web_Field_Trainer\PKs_C_Web_Field_Trainer.csproj", "{0F2110DB-3A15-472F-803D-980A59909986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AFB8502-2142-4781-B1CB-595D941A6FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AFB8502-2142-4781-B1CB-595D941A6FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AFB8502-2142-4781-B1CB-595D941A6FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AFB8502-2142-4781-B1CB-595D941A6FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{703C732E-3E88-4CB4-98C2-69FD31FE26A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703C732E-3E88-4CB4-98C2-69FD31FE26A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703C732E-3E88-4CB4-98C2-69FD31FE26A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703C732E-3E88-4CB4-98C2-69FD31FE26A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB0C059B-954E-4532-B9D5-F5711ED8C8E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB0C059B-954E-4532-B9D5-F5711ED8C8E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB0C059B-954E-4532-B9D5-F5711ED8C8E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB0C059B-954E-4532-B9D5-F5711ED8C8E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F2110DB-3A15-472F-803D-980A59909986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2110DB-3A15-472F-803D-980A59909986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2110DB-3A15-472F-803D-980A59909986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2110DB-3A15-472F-803D-980A59909986}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F2333FA-000F-435F-B0D0-447B55622D5F}
+	EndGlobalSection
+EndGlobal
