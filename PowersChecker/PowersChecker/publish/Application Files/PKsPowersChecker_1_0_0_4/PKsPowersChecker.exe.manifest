@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="PKsPowersChecker.exe" version="1.0.0.4" publicKeyToken="05fd6f51e0dec900" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="statesman_vbv_icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="PKsPowersChecker" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="PKsPowersChecker.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EPPlus.dll" size="1298432">
+      <assemblyIdentity name="EPPlus" version="4.5.3.1" publicKeyToken="EA159FDAA78159A1" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>OFAyuEXxhm+4loHpi/WZdDW58BqUzPhFzX309WY9AL0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PKsPowersChecker.exe" size="3657696">
+      <assemblyIdentity name="PKsPowersChecker" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>TpcMfRpotxymg7hREqmJTWjS5Y/9hXe9q26+fUL4sFQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.IO.Packaging.dll" size="50320">
+      <assemblyIdentity name="System.IO.Packaging" version="4.0.3.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>l2LE+2bIGOgeBI1lVREEBNekVg2iRIZImeABOSz6jdk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="PKsPowersChecker.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\PlayerPowers.xlsx" size="2982615">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>qIsttlDpUPjrYhj+6Xj18Q+8pbqGKTWoDBV4EKSi5mI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="statesman_vbv_icon.ico" size="327226">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>V0ZSmrgPYWkuXe1ES/W9yDucJpRJn//4P7oCFRTFFcg=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-U56VMB7\admin" issuerKeyHash="083da48eaebb2c9c00e5ef3ed6b82597489f8080" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>CJnoaAUB6KL5svbSxOes4rmVwYzURRWNsR13zyt8Lsc=</DigestValue></Reference></SignedInfo><SignatureValue>o8zD8FQ4CemdwlmeXkAbUzoue6ElDJ1w+HU2dpH3t54yI5kB/zoiVjmoGpEJ527Yy0TXZd799UAG5FWtWhS5yMK2oV9LR+hbCX8kFRUeaKhDUW+FUHkF4cVIzmG1qQCbG6sV81G8/yf38wb7j3P3TEOZADuuhMraFAupg1T/fKI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qUa8rOqRnvVhSFu6DsbTOfAbQILBg6T0UHoMWVBbDHDEPTwMUOZblyXAjOJsO5LtUsIhb6yBc9RGWG6g98jvo2YywYbxl9FcbgwXmcd771UqXALAXPGFpbNFg+WwG4Hc8cJkzzd6US+CDIJob5uhbr7CNbaU7bVKqvqzMw/aN60=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="c72e7c2bcf771db18d1545d48cc195b9e2ace7c4d2f6b2f9a2e8010568e89908" Description="" Url=""><as:assemblyIdentity name="PKsPowersChecker.exe" version="1.0.0.4" publicKeyToken="05fd6f51e0dec900" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-U56VMB7\admin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>xgqjy+rspnEsp38Dx0qV5jRcbQVpYx0QvxBJ6UE8rEg=</DigestValue></Reference></SignedInfo><SignatureValue>OWRlHtTfL8eJgZhmIMSc/cnuZijOknvO77O8QyWobRONzyGqLV9/YnXjAhXT9tH4WP9Xu/6/AKewBSh0yS3hpwIDEnPAOwESOqZBdESqctQPixaux/h/NlSFjvkltuycRIgtwlzeRqwUs7PHeAH15Siy554OwxmOiopsT729GVU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qUa8rOqRnvVhSFu6DsbTOfAbQILBg6T0UHoMWVBbDHDEPTwMUOZblyXAjOJsO5LtUsIhb6yBc9RGWG6g98jvo2YywYbxl9FcbgwXmcd771UqXALAXPGFpbNFg+WwG4Hc8cJkzzd6US+CDIJob5uhbr7CNbaU7bVKqvqzMw/aN60=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQd84uJox13ppFoVMtK/2HKDANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFUANQA2AFYATQBCADcAXABhAGQAbQBpAG4wHhcNMTkwNTI5MTEzOTEyWhcNMjAwNTI4MTczOTEyWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFUANQA2AFYATQBCADcAXABhAGQAbQBpAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKlGvKzqkZ71YUhbug7G0znwG0CCwYOk9FB6DFlQWwxwxD08DFDmW5clwIzibDuS7VLCIW+sgXPURlhuoPfI76NmMsGG8ZfRXG4MF5nHe+9VKlwCwFzxhaWzRYPlsBuB3PHCZM83elEvggyCaG+boW6+wjW2lO21Sqr6szMP2jetAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAZw2uLkijIVcFQ0FfVxn0fMXKvfmODIDqba6nzkW0MUEKBW0ZEOumrtmh8LZu5JXmRmOsimylGuOr9Rb0XRRNOtTyO41hnvIL8UW25VZjISaVzQRFnf8n46TU7nMnOnURO/QXNk5iVtt+Zf0NsFhaC3rYAiHlOorOcpgcbwFNCGQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
