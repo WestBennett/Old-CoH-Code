@@ -1,0 +1,12 @@
+C:\Projects\Texture Master\Texture Master\bin\Debug\Texture Master.exe.config
+C:\Projects\Texture Master\Texture Master\bin\Debug\Texture Master.exe
+C:\Projects\Texture Master\Texture Master\bin\Debug\Texture Master.pdb
+C:\Projects\Texture Master\Texture Master\obj\Debug\Texture Master.csprojAssemblyReference.cache
+C:\Projects\Texture Master\Texture Master\obj\Debug\Texture_Master.Form1.resources
+C:\Projects\Texture Master\Texture Master\obj\Debug\Texture_Master.Properties.Resources.resources
+C:\Projects\Texture Master\Texture Master\obj\Debug\Texture Master.csproj.GenerateResource.cache
+C:\Projects\Texture Master\Texture Master\obj\Debug\Texture Master.exe
+C:\Projects\Texture Master\Texture Master\obj\Debug\Texture Master.pdb
+C:\Projects\Texture Master\Texture Master\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Projects\Texture Master\Texture Master\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Projects\Texture Master\Texture Master\obj\Debug\Texture Master.csproj.CopyComplete

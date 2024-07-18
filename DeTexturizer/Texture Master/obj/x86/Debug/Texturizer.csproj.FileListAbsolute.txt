@@ -1,0 +1,21 @@
+C:\Projects\Texture Master\Texture Master\bin\x86\Debug\Texturizer.exe.config
+C:\Projects\Texture Master\Texture Master\bin\x86\Debug\Texturizer.exe
+C:\Projects\Texture Master\Texture Master\bin\x86\Debug\Texturizer.pdb
+C:\Projects\Texture Master\Texture Master\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Projects\Texture Master\Texture Master\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Projects\Texture Master\Texture Master\obj\x86\Debug\Texturizer.csprojAssemblyReference.cache
+C:\Projects\Texture Master\Texture Master\obj\x86\Debug\Texture_Master.Form1.resources
+C:\Projects\Texture Master\Texture Master\obj\x86\Debug\Texturizer.Properties.Resources.resources
+C:\Projects\Texture Master\Texture Master\obj\x86\Debug\Texturizer.csproj.GenerateResource.cache
+C:\Projects\Texture Master\Texture Master\obj\x86\Debug\Texturizer.csproj.CopyComplete
+C:\Projects\Texture Master\Texture Master\obj\x86\Debug\Texturizer.exe
+C:\Projects\Texture Master\Texture Master\obj\x86\Debug\Texturizer.pdb
+C:\Projects\Texture Master\Texture Master\obj\x86\Debug\Texture_Master.MainForm.resources
+C:\Projects\Texturizer\Texture Master\bin\x86\Debug\Texturizer.exe.config
+C:\Projects\Texturizer\Texture Master\bin\x86\Debug\Texturizer.exe
+C:\Projects\Texturizer\Texture Master\bin\x86\Debug\Texturizer.pdb
+C:\Projects\Texturizer\Texture Master\obj\x86\Debug\Texturizer.Properties.Resources.resources
+C:\Projects\Texturizer\Texture Master\obj\x86\Debug\Texturizer.csproj.GenerateResource.cache
+C:\Projects\Texturizer\Texture Master\obj\x86\Debug\Texturizer.exe
+C:\Projects\Texturizer\Texture Master\obj\x86\Debug\Texturizer.pdb
+C:\Projects\Texturizer\Texture Master\obj\x86\Debug\Texturizer.MainForm.resources
