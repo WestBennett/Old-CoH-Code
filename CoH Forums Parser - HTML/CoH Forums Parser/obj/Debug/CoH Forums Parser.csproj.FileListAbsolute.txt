@@ -1,0 +1,32 @@
+C:\Projects\CoH Forums Parser\CoH Forums Parser\obj\Debug\CoH Forums Parser.csproj.CoreCompileInputs.cache
+C:\Projects\CoH Forums Parser\CoH Forums Parser\bin\Debug\HtmlAgilityPack.dll
+C:\Projects\CoH Forums Parser\CoH Forums Parser\bin\Debug\HtmlAgilityPack.pdb
+C:\Projects\CoH Forums Parser\CoH Forums Parser\bin\Debug\HtmlAgilityPack.xml
+C:\Projects\CoH Forums Parser\CoH Forums Parser\obj\Debug\CoH Forums Parser.csproj.CopyComplete
+C:\Projects\CoH Forums Parser\CoH Forums Parser\bin\Debug\MySql.Data.dll
+C:\Projects\CoH Forums Parser\CoH Forums Parser\bin\Debug\Project Spelunker - CoH Forums Parser.exe.config
+C:\Projects\CoH Forums Parser\CoH Forums Parser\bin\Debug\Project Spelunker - CoH Forums Parser.exe
+C:\Projects\CoH Forums Parser\CoH Forums Parser\bin\Debug\Project Spelunker - CoH Forums Parser.pdb
+C:\Projects\CoH Forums Parser\CoH Forums Parser\obj\Debug\Project Spelunker - CoH Forums Parser.exe
+C:\Projects\CoH Forums Parser\CoH Forums Parser\obj\Debug\Project Spelunker - CoH Forums Parser.pdb
+C:\Projects\CoH Forums Parser\CoH Forums Parser\obj\Debug\CoH Forums Parser.csprojAssemblyReference.cache
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\bin\Debug\Project Spelunker - CoH Forums Parser.exe.config
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\bin\Debug\Project Spelunker - CoH Forums Parser.exe
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\bin\Debug\Project Spelunker - CoH Forums Parser.pdb
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\bin\Debug\HtmlAgilityPack.dll
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\bin\Debug\MySql.Data.dll
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\bin\Debug\System.Text.Utf8String.dll
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\bin\Debug\System.Memory.dll
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\bin\Debug\System.Text.Primitives.dll
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\bin\Debug\System.Buffers.Primitives.dll
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\bin\Debug\HtmlAgilityPack.pdb
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\bin\Debug\HtmlAgilityPack.xml
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\bin\Debug\System.Text.Utf8String.pdb
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\bin\Debug\System.Text.Primitives.pdb
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\bin\Debug\System.Buffers.Primitives.pdb
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\obj\Debug\CoH Forums Parser.csprojAssemblyReference.cache
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\obj\Debug\Project Spelunker - CoH Forums Parser.exe.config
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\obj\Debug\CoH Forums Parser.csproj.CoreCompileInputs.cache
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\obj\Debug\CoH Forums Parser.csproj.CopyComplete
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\obj\Debug\Project Spelunker - CoH Forums Parser.exe
+C:\Projects\CoH Forums Parser - HTML\CoH Forums Parser\obj\Debug\Project Spelunker - CoH Forums Parser.pdb
