@@ -1,0 +1,20 @@
+C:\Projects\COH WARC Handler\WHB WARC Processor\bin\x64\Debug\COH WARC Processor.exe.config
+C:\Projects\COH WARC Handler\WHB WARC Processor\bin\x64\Debug\COH WARC Processor.exe
+C:\Projects\COH WARC Handler\WHB WARC Processor\bin\x64\Debug\COH WARC Processor.pdb
+C:\Projects\COH WARC Handler\WHB WARC Processor\bin\x64\Debug\DotNetZip.dll
+C:\Projects\COH WARC Handler\WHB WARC Processor\bin\x64\Debug\HtmlAgilityPack.dll
+C:\Projects\COH WARC Handler\WHB WARC Processor\bin\x64\Debug\WHB WARC Handler.dll
+C:\Projects\COH WARC Handler\WHB WARC Processor\bin\x64\Debug\WHB WARC Handler.pdb
+C:\Projects\COH WARC Handler\WHB WARC Processor\bin\x64\Debug\DotNetZip.pdb
+C:\Projects\COH WARC Handler\WHB WARC Processor\bin\x64\Debug\DotNetZip.xml
+C:\Projects\COH WARC Handler\WHB WARC Processor\bin\x64\Debug\HtmlAgilityPack.pdb
+C:\Projects\COH WARC Handler\WHB WARC Processor\bin\x64\Debug\HtmlAgilityPack.xml
+C:\Projects\COH WARC Handler\WHB WARC Processor\obj\x64\Debug\COH WARC Processor.csproj.AssemblyReference.cache
+C:\Projects\COH WARC Handler\WHB WARC Processor\obj\x64\Debug\COH WARC Processor.exe.config
+C:\Projects\COH WARC Handler\WHB WARC Processor\obj\x64\Debug\COH_WARC_Processor.MainForm.resources
+C:\Projects\COH WARC Handler\WHB WARC Processor\obj\x64\Debug\COH_WARC_Processor.Properties.Resources.resources
+C:\Projects\COH WARC Handler\WHB WARC Processor\obj\x64\Debug\COH WARC Processor.csproj.GenerateResource.cache
+C:\Projects\COH WARC Handler\WHB WARC Processor\obj\x64\Debug\COH WARC Processor.csproj.CoreCompileInputs.cache
+C:\Projects\COH WARC Handler\WHB WARC Processor\obj\x64\Debug\COH WARC Processor.csproj.CopyComplete
+C:\Projects\COH WARC Handler\WHB WARC Processor\obj\x64\Debug\COH WARC Processor.exe
+C:\Projects\COH WARC Handler\WHB WARC Processor\obj\x64\Debug\COH WARC Processor.pdb

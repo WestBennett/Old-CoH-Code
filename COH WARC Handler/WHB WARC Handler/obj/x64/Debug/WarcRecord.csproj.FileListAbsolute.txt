@@ -1,0 +1,10 @@
+C:\Projects\COH WARC Handler\WHB WARC Handler\bin\x64\Debug\WHB WARC Handler.dll
+C:\Projects\COH WARC Handler\WHB WARC Handler\bin\x64\Debug\WHB WARC Handler.pdb
+C:\Projects\COH WARC Handler\WHB WARC Handler\bin\x64\Debug\HtmlAgilityPack.dll
+C:\Projects\COH WARC Handler\WHB WARC Handler\bin\x64\Debug\HtmlAgilityPack.pdb
+C:\Projects\COH WARC Handler\WHB WARC Handler\bin\x64\Debug\HtmlAgilityPack.xml
+C:\Projects\COH WARC Handler\WHB WARC Handler\obj\x64\Debug\WarcRecord.csproj.CoreCompileInputs.cache
+C:\Projects\COH WARC Handler\WHB WARC Handler\obj\x64\Debug\WarcRecord.csproj.CopyComplete
+C:\Projects\COH WARC Handler\WHB WARC Handler\obj\x64\Debug\WHB WARC Handler.dll
+C:\Projects\COH WARC Handler\WHB WARC Handler\obj\x64\Debug\WHB WARC Handler.pdb
+C:\Projects\COH WARC Handler\WHB WARC Handler\obj\x64\Debug\WarcRecord.csproj.AssemblyReference.cache
