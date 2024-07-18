@@ -1,0 +1,16 @@
+C:\Projects\GetPowerSounds\GetPowerSounds\obj\Debug\GetPowerSounds.csprojAssemblyReference.cache
+C:\Projects\GetPowerSounds\GetPowerSounds\obj\Debug\GetPowerSounds.Form1.resources
+C:\Projects\GetPowerSounds\GetPowerSounds\obj\Debug\GetPowerSounds.Properties.Resources.resources
+C:\Projects\GetPowerSounds\GetPowerSounds\obj\Debug\GetPowerSounds.csproj.GenerateResource.cache
+C:\Projects\GetPowerSounds\GetPowerSounds\bin\Debug\GetPowerSounds.exe.config
+C:\Projects\GetPowerSounds\GetPowerSounds\bin\Debug\GetPowerSounds.exe
+C:\Projects\GetPowerSounds\GetPowerSounds\bin\Debug\GetPowerSounds.pdb
+C:\Projects\GetPowerSounds\GetPowerSounds\bin\Debug\Philotic_Knights_Def_Tools.dll
+C:\Projects\GetPowerSounds\GetPowerSounds\bin\Debug\Philotic_Knights_Field_Trainer_ModelController.dll
+C:\Projects\GetPowerSounds\GetPowerSounds\bin\Debug\EPPlus.dll
+C:\Projects\GetPowerSounds\GetPowerSounds\bin\Debug\Philotic_Knights_Def_Tools.pdb
+C:\Projects\GetPowerSounds\GetPowerSounds\bin\Debug\Philotic_Knights_Field_Trainer_ModelController.pdb
+C:\Projects\GetPowerSounds\GetPowerSounds\bin\Debug\EPPlus.xml
+C:\Projects\GetPowerSounds\GetPowerSounds\obj\Debug\GetPowerSounds.csproj.CopyComplete
+C:\Projects\GetPowerSounds\GetPowerSounds\obj\Debug\GetPowerSounds.exe
+C:\Projects\GetPowerSounds\GetPowerSounds\obj\Debug\GetPowerSounds.pdb
