@@ -1,0 +1,12 @@
+C:\Projects\ScanSpelunker\ScanSpelunker\bin\x64\Debug\ScanSpelunker.exe.config
+C:\Projects\ScanSpelunker\ScanSpelunker\bin\x64\Debug\ScanSpelunker.exe
+C:\Projects\ScanSpelunker\ScanSpelunker\bin\x64\Debug\ScanSpelunker.pdb
+C:\Projects\ScanSpelunker\ScanSpelunker\bin\x64\Debug\LessIO.dll
+C:\Projects\ScanSpelunker\ScanSpelunker\obj\x64\Debug\ScanSpelunker.csproj.AssemblyReference.cache
+C:\Projects\ScanSpelunker\ScanSpelunker\obj\x64\Debug\ScanSpelunker.csproj.CoreCompileInputs.cache
+C:\Projects\ScanSpelunker\ScanSpelunker\obj\x64\Debug\ScanSpelunker.csproj.CopyComplete
+C:\Projects\ScanSpelunker\ScanSpelunker\obj\x64\Debug\ScanSpelunker.exe
+C:\Projects\ScanSpelunker\ScanSpelunker\obj\x64\Debug\ScanSpelunker.pdb
+C:\Projects\ScanSpelunker\ScanSpelunker\bin\x64\Debug\HtmlAgilityPack.dll
+C:\Projects\ScanSpelunker\ScanSpelunker\bin\x64\Debug\HtmlAgilityPack.pdb
+C:\Projects\ScanSpelunker\ScanSpelunker\bin\x64\Debug\HtmlAgilityPack.xml

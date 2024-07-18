@@ -1,0 +1,9 @@
+C:\Projects\ScanSpelunker\ScanSpelunker\obj\Debug\ScanSpelunker.csproj.AssemblyReference.cache
+C:\Projects\ScanSpelunker\ScanSpelunker\obj\Debug\ScanSpelunker.csproj.CoreCompileInputs.cache
+C:\Projects\ScanSpelunker\ScanSpelunker\bin\Debug\ScanSpelunker.exe.config
+C:\Projects\ScanSpelunker\ScanSpelunker\bin\Debug\ScanSpelunker.exe
+C:\Projects\ScanSpelunker\ScanSpelunker\bin\Debug\ScanSpelunker.pdb
+C:\Projects\ScanSpelunker\ScanSpelunker\obj\Debug\ScanSpelunker.exe
+C:\Projects\ScanSpelunker\ScanSpelunker\obj\Debug\ScanSpelunker.pdb
+C:\Projects\ScanSpelunker\ScanSpelunker\bin\Debug\LessIO.dll
+C:\Projects\ScanSpelunker\ScanSpelunker\obj\Debug\ScanSpelunker.csproj.CopyComplete
